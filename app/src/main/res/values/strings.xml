@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="nilai_1">Masukkan Angka ke 1</string>
+    <string name="nilai_2">Masukan Angka ke 2</string>
+    <string name="hasil">Hasil</string>
+    <string name="tambah">+ </string>
+    <string name="kali">*</string>
+    <string name="bagi">/ </string>
+    <string name="hapus">C </string>
+    <string name="kurang">Kurang</string>
+</resources>
